@@ -143,4 +143,4 @@ Ideal para **restaurantes, cafeterías, pollerías, bares, food courts o servici
 
 > “Un sistema moderno, rápido y adaptable para optimizar la atención, pedidos y ventas en tu restaurante.”
 
-
+Para el proyecto completo contactarme
